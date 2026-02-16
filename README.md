@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>Full-Stack Developer • Backend Engineer • Aspiring SWE</strong>
+  <strong>Full-Stack Developer • Backend Engineer • Aspiring Cybersecurity Engineer</strong>
 </p>
 
 <p align="center">
