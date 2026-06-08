@@ -69,6 +69,18 @@
 
 ---
 
+## ▸ Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tyronecheang/tyronecheang/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tyronecheang/tyronecheang/output/github-contribution-grid-snake.svg" />
+    <img width="100%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/tyronecheang/tyronecheang/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
 <div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=rect&height=18&section=footer&color=0:01010A,20:0A0F2A,50:1E3A8A,100:38BDF8"
