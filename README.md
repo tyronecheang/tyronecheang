@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
   &nbsp;
-  <a href="mailto:tyronecheang@hotmail.com">
+  <a href="mailto:t.cheang@hotmail.com">
     <img src="https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=0A0F2A" />
   </a>
 </div>
